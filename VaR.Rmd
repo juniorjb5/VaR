@@ -469,7 +469,7 @@ $$ES = E[R / ( R < VaR )] \nonumber$$
 .pull-right[
 
 
-```{r Var2, echo=FALSE, fig.align="center", out.width="75%"}
+```{r Var2, echo=FALSE, fig.align="center", out.width="50%"}
 knitr::include_graphics("img/Imagen3.png")
 ```
 
