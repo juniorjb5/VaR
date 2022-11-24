@@ -470,7 +470,7 @@ $$ES = E[R / ( R < VaR )] \nonumber$$
 
 
 ```{r Var2, echo=FALSE, fig.align="center", out.width="75%"}
-knitr::include_graphics("img/Imagen3.PNG")
+knitr::include_graphics("img/Imagen3.png")
 ```
 
 
